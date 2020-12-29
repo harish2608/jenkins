@@ -1,0 +1,21 @@
+{
+  files:[
+    {
+      "srcFile":"helloo",
+      "name":"harish"
+    },
+    {
+      "srcFile":"helloo",
+      "name":"punya"
+    },
+    {
+      "srcFile":"helloo",
+      "name":"daddy"
+    },
+    {
+      "srcFile":"helloo",
+      "name":"mummy"
+    }
+
+  ]
+}
